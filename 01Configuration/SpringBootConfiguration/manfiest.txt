@@ -1,0 +1,52 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0302 Spring Boot Configuration\Spring Boot Configuration
+   │
+   ├[.mvn]
+   │   │
+   │   └[wrapper]
+   │       │
+   │       ├maven-wrapper
+   │       └maven-wrapper
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.core.resources
+   │   ├org.eclipse.jdt.core
+   │   ├org.eclipse.m2e.core
+   │   └org.eclipse.wst.common.project.facet.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├[data]
+   │   │   │               │   │
+   │   │   │               │   └[entities]
+   │   │   │               │       │
+   │   │   │               │       └Book
+   │   │   │               ├BookRepository
+   │   │   │               └SpringDataBootApplication
+   │   │   └[resources]
+   │   │       │
+   │   │       └application
+   │   └[test]
+   │       │
+   │       └[java]
+   │           │
+   │           └[com]
+   │               │
+   │               └[oreilly]
+   │                   │
+   │                   └[sdata]
+   │                       │
+   │                       └SpringDataBootApplicationTests
+   ├
+   ├
+   ├mvnw
+   ├mvnw
+   └pom

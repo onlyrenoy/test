@@ -1,0 +1,35 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0300\0306 Xml Configuration\Xml Configuration
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Application
+   │   │   │               ├Book
+   │   │   │               ├BookRepository
+   │   │   │               └BookService
+   │   │   └[resources]
+   │   │       │
+   │   │       ├application-context
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   ├manfiest
+   └pom
